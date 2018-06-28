@@ -1,5 +1,8 @@
+name = 'shamal'
+
 def hello(name):
     print('Hello ' + name)
 
 hello('Alice')
 hello('Bob')
+print(name)
