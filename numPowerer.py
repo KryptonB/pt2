@@ -3,7 +3,7 @@ def powerer(number, power):
 
 while True:
     print('')
-    print('Please enter the number')
+    print('Please enter the number(press \'q\' to quit the program)')
     number = input()
 
     if number == 'q':
