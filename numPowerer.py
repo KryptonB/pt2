@@ -7,4 +7,4 @@ number = int(input())
 print('Please enter the power')
 power = int(input())
 
-print(str(number) + ' to the '+ str(power) + ' is ' + str(powerer(number, power)))
+print(str(number) + ' to the power '+ str(power) + ' is ' + str(powerer(number, power)))
